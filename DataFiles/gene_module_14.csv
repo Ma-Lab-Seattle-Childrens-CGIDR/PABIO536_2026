@@ -1,0 +1,4 @@
+source,target,weight,correlation
+PKP4,CHAC1,1,1
+PKP4,WDR45,1,1
+WDR45,CHAC1,1,1
